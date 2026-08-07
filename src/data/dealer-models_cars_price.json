@@ -1,12 +1,6 @@
 [
   {
     "brand": "Tenet",
-    "model": "T4",
-    "price": 2609000,
-    "benefit": 50000
-  },
-  {
-    "brand": "Tenet",
     "model": "T4L",
     "price": 2279000,
     "benefit": 0
