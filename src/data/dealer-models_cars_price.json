@@ -16,5 +16,11 @@
     "model": "T8",
     "price": 2804150,
     "benefit": 582750
+  },
+  {
+    "brand": "Tenet",
+    "model": "T9",
+    "price": 0,
+    "benefit": 0
   }
 ]
