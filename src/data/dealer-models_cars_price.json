@@ -1,32 +1,20 @@
 [
   {
-    "brand": "Chery",
-    "model": "Тигго 4 (TIGGO 4)",
-    "price": 2131550,
-    "benefit": 0
-  },
-  {
-    "brand": "Chery",
-    "model": "Тигго 9 (TIGGO 9)",
-    "price": 3904400,
-    "benefit": 635600
-  },
-  {
     "brand": "Tenet",
     "model": "T4L",
-    "price": 2165050,
-    "benefit": 218610
+    "price": 2159000,
+    "benefit": 250000
   },
   {
     "brand": "Tenet",
     "model": "T7",
-    "price": 2324750,
-    "benefit": 471000
+    "price": 2335000,
+    "benefit": 545000
   },
   {
     "brand": "Tenet",
     "model": "T8",
-    "price": 2789100,
-    "benefit": 543900
+    "price": 2804150,
+    "benefit": 582750
   }
 ]
